@@ -1,0 +1,175 @@
+.circle  {
+
+  height: 90px;
+  width: 90px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  opacity:1;
+
+}
+
+.parent {
+    top: 0px;
+    left: 0px;
+    position:absolute;
+}
+
+.loginsignup {
+
+    position:absolute;
+    top:3%;
+    left:70%;
+}
+
+.child {
+    position:absolute;
+    left:40%;
+    top:25%;
+}
+
+.displaybutton {
+
+    text-align: left;
+    font: normal normal medium 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    background-color: transparent;
+    border:none;
+   
+
+}
+
+.companylogo {
+
+    text-align: left;
+
+    font: normal normal 550 70px/106px Poppins;
+    color: #EB2929;
+    opacity: 1;
+    position:absolute;
+    left:23%;
+    bottom:6%;
+    width: 68px;
+    height: 99px;
+    letter-spacing: 0px;
+  
+}
+
+.borderwhite {
+   
+    border: 1px solid #FFFFFF;
+    border-radius: 3px;
+}
+
+#headertext {
+
+
+    text-align: left;
+    font: normal normal 300 36px/55px Poppins;
+    color: #FFFFFF;
+    opacity: 1;
+    position:absolute;
+    left:10%;
+    top:33%;
+    width: 758px;
+    height: 51px;
+    letter-spacing: 0px;
+}
+
+.locationsearch {
+
+    
+    position:absolute;
+    top:44%;
+    left:11%;
+
+    
+}
+
+#locationinput {
+    text-align: left;
+    font: normal normal normal 15px/23px Poppins;
+    letter-spacing: 0px;
+    color: #636F88;
+    opacity: 1;
+    width: 250px;
+    height: 40px;
+    padding-left:30px;
+    
+}
+
+#searchlocation {
+
+  
+    
+    text-align: left;
+    font: normal normal normal 15px/23px Poppins;
+    letter-spacing: 0px;
+    color: #636F88;
+    opacity: 1;
+    width: 200px;
+    height: 30px;
+    padding-left:30px;
+    
+  
+    
+}
+
+#searchimg
+{
+    width: 20px;
+    height: 20px;
+    
+}
+
+.icon {
+    padding-left: 25px;
+    
+    background: url("Images/search.png") no-repeat left;
+    background-size: 20px;
+    background-color: #FFFFFF;
+  }
+
+
+  .header2 {
+    text-align: left;
+    font: normal normal bold 30px/46px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+  }
+  .header3 {
+
+    text-align: left;
+    font: normal normal normal 18px/27px Poppins;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    opacity: 1;
+  }
+  .header4 {
+
+    text-align: left;
+    font: normal normal 600 18px/27px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    padding-left:10px;
+   
+  }
+
+  .header5 {
+
+    text-align: left;
+    font: normal normal normal 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    opacity: 1;
+  }
+
+ #tdstyle{
+    border-style:outset;
+ }
